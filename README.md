@@ -55,9 +55,6 @@ To interact with the bot, users can send commands and messages. The bot will res
 - `.menu` - Displays a list of available commands and their descriptions.
 - `And Many Other Cmds` - Use the bot to discover by yourself.
 
-### HERE'S MENU STYLE ###
-
-   ![BRYANT TECH](https://github.com/mouricedevs/telegram-bot/assets/166598671/6abb6447-52b0-43ae-81c5-8f11680f021d)
 
 
 
@@ -67,8 +64,13 @@ To interact with the bot, users can send commands and messages. The bot will res
 ### INCASE OF ISSUES ###
  - [CONTACT OWNER](t.me/Bryanttech)
 
-       ©𝟮𝟬𝟮𝟰 𝗚𝗜𝗙𝗧𝗘𝗗 𝗧𝗘𝗖𝗛
+       ©𝟮𝟬𝟮𝟰 𝗕𝗥𝗬𝗔𝗡𝗧 𝗧𝗘𝗖𝗛
 
 - **CHECK OUT MY [WHATSAPP BOT PROJECT](https://github.com/Elsa2090/Madara-md) HERE**
 
       CAN WE COLLABORATE ON A PROJECT WITH YOU???
+
+  
+✦𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢✦
+
+`GIFTED`
