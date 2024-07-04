@@ -1,9 +1,9 @@
 {
-    "name": "telegram-md",
-    "description": "Gifted-Md, A simple Telegram user bot Created by Gifted Tech",
-    "logo": "https://github.com/mouricedevs.png",
-    "repository": "https://github.com/mouricedevs/telegram-bot",
-    "keywords": ["whatsappbot", "Gifted Tech", "GIFTED MD", "GIFTED TECH 𝙈𝘿", "GIFTEDMdWhatsaooBot", "GIFTEDMDWaBot","GIFTED","GIFTED TECH Md Whatsapp Bot","multi device"],
+    "name": "𝗫𝗧𝗘𝗖𝗛 𝗠𝗗",
+    "description": "𝗫𝗧𝗘𝗖𝗛, A simple Telegram user bot Created by 𝗕𝗥𝗬𝗔𝗡𝗧 𝗧𝗘𝗖𝗛",
+    "logo": "https://telegra.ph/file/00b00c783438fed0c08f0.jpg",
+    "repository": "https://github.com/Elsa2090/X-tech",
+    "keywords": ["whatsappbot", "Bryant Tech", "BRYANT MD", "BRYANT TECH 𝙈𝘿", "BRYANTMdWhatsaooBot", "GIFTEDMDWaBot","BRYANT","BRYANT TECH Md Whatsapp Bot","multi device"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
@@ -14,8 +14,8 @@
       },
       "MESSAGE": {
         "description": "set session id conformation message",
-        "value": "✅ᴄᴏɴɴᴇᴄᴛᴇᴅ✅ [ 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝐆𝐈𝐅𝐓𝐄𝐃 𝐌𝐃 ]",
-        "required": false 
+        "value": "✅𝗕𝗥𝗬𝗔𝗡𝗧.....✅ [ 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝐗-𝐓𝐄𝐂𝐇 𝐌𝐃 ]",
+        "required": false
       }
     }   
 
