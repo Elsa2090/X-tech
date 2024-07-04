@@ -1,5 +1,8 @@
-# Telegram-MultiDevice User Bot 
-
+༺ 𝗫-𝗧𝗘𝗖𝗛 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗕𝗢𝗧 ༻
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=X-TECH+TG+BOT;A+TELEGRAM+BOT;CREATED+BY+BRYANT+TECH;THANKS+TO+GIFTED" alt="Typing SVG" /></a>
+  </p>
+<div align="center">
 
    #### Note:
 - **If a file/cmd is encrypted and you wish to have a decrypted version of it feel free to request for it from the developer [HERE.](https://t.me/Bryanttech) NO CHARGES!**
@@ -7,7 +10,7 @@
 - **Here is a [DEMO VERSION](https://t.me/Bryanttech) of this bot project.**
 - **You can test it out for 🆓**
 
-- Gifted-Md Telegram bot project is designed to automate tasks, respond to commands, and integrate with external services or APIs, offering users a robust interactive experience.
+- BRYANT-TECH Telegram bot project is designed to automate tasks, respond to commands, and integrate with external services or APIs, offering users a robust interactive experience.
 
 ## Features
 
