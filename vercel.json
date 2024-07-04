@@ -1,6 +1,6 @@
 {
   "version": 1,
-   "name": "telegram bot",
+   "name": "Xtech",
   "builds": [
     { "src": "./gifted.js", "use": "@vercel/node" }
   ],
