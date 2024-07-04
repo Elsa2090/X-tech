@@ -1,5 +1,5 @@
 {
-  "name": "telegram-bot",
+  "name": "𝗫𝗧𝗘𝗖𝗛",
   "version": "1.0.0",
   "description": "",
   "main": "gifted.js",
@@ -10,7 +10,7 @@
     "stop": "pkill -f node"
   },
   "keywords": [],
-  "author": "Gifted Tech",
+  "author": "𝗕𝗥𝗬𝗔𝗡𝗧 𝗧𝗘𝗖𝗛",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
