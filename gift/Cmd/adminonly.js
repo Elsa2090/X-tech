@@ -13,7 +13,7 @@ const config = require('./config.json');
 module.exports = {
     config: {
         name: "adminonly",
-        author: "Gifted Tech",
+        author: "Bryant Tech",
         description: "Toggle admin-only mode",
         category: "ᴀᴅᴍɪɴ",
         usage: "adminonly <on|off>",
