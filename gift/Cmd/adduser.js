@@ -12,7 +12,7 @@ const TelegramBot = require('node-telegram-bot-api');
 module.exports = {
     config: {
         name: "add",
-        author: "Gifted Tech",
+        author: "Bryant Tech",
         description: "Add a user to the group via invite link",
         category: "ᴀᴅᴍɪɴ",
         usage: "adduser <username|user_id>",
