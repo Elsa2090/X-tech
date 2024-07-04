@@ -1,36 +1,21 @@
-const gifted = require('express');
-const giftech = require('path');
-const { spawn } = require('child_process');
-const axios = require('axios')
-const gift = gifted();
+// This is an auth file for gift.js
+// Gifted loves Y'all
 
 
-gift.use(gifted.static(giftech.join(__dirname, 'xtech')));
 
 
-gift.get('/', (req, res) => {
-    res.sendFile(giftech.join(__dirname, 'xtech', 'xtech.html'));
-});
-
-const PORT = process.env.PORT || 3000;
-gift.listen(PORT, () => {});
 
 
-//startGifted function is taken from gifted-md whatsapp bot v4.0.0
-function startGifted() {
-    const child = spawn("node", ["gift.js"], {
-        cwd: __dirname,
-        stdio: "inherit",
-        shell: true
-    });
 
-    child.on("close", (code) => {
-        if (code === 2) {
-            console.log("Restarting Xtech-Md...");
-            startGifted();
-        }
-    });
-}
+use strict();
 
 
-startGifted();
+
+
+// ©𝟮𝟬𝟮𝟰
+// 𝗚𝗜𝗙𝗧𝗘𝗗 𝗧𝗘𝗖𝗛
+// 𝗧.𝗠𝗘/𝗚𝗜𝗙𝗧𝗘𝗗𝗠𝗗
+// 𝗔𝗗𝗗𝗜𝗡𝗚 𝗠𝗢𝗥𝗘 𝗙𝗜𝗟𝗘𝗦 𝗦𝗢𝗢𝗡
+// 𝟮𝟬𝟮𝟱 𝗜𝗦 𝗚𝗢𝗡𝗡𝗔 𝗕𝗘 𝗕𝗘𝗧𝗧𝗘𝗥
+// 𝗖𝗔𝗡 𝗪𝗘 𝗖𝗢𝗟𝗟𝗔𝗕𝗢𝗥𝗔𝗧𝗘 𝗢𝗡 𝗔 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗪𝗜𝗧𝗛 𝗬𝗢𝗨
+
