@@ -5,11 +5,11 @@ const axios = require('axios')
 const gift = gifted();
 
 
-gift.use(gifted.static(giftech.join(__dirname, 'gifted')));
+gift.use(gifted.static(giftech.join(__dirname, 'xtech')));
 
 
 gift.get('/', (req, res) => {
-    res.sendFile(giftech.join(__dirname, 'gifted', 'gifted.html'));
+    res.sendFile(giftech.join(__dirname, 'xtech', 'xtech.html'));
 });
 
 const PORT = process.env.PORT || 3000;
@@ -26,7 +26,7 @@ function startGifted() {
 
     child.on("close", (code) => {
         if (code === 2) {
-            console.log("Restarting Gifted-Md...");
+            console.log("Restarting Xtech-Md...");
             startGifted();
         }
     });
