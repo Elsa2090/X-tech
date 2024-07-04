@@ -2,9 +2,9 @@
 
 
    #### Note:
-- **If a file/cmd is encrypted and you wish to have a decrypted version of it feel free to request for it from the developer [HERE.](https://t.me/giftedmd) NO CHARGES!**
+- **If a file/cmd is encrypted and you wish to have a decrypted version of it feel free to request for it from the developer [HERE.](https://t.me/Bryanttech) NO CHARGES!**
 
-- **Here is a [DEMO VERSION](https://t.me/giftedmd_bot) of this bot project.**
+- **Here is a [DEMO VERSION](https://t.me/Bryanttech) of this bot project.**
 - **You can test it out for 🆓**
 
 - Gifted-Md Telegram bot project is designed to automate tasks, respond to commands, and integrate with external services or APIs, offering users a robust interactive experience.
@@ -23,7 +23,7 @@
 - Telegram account
 - Telegram Bot Token
 - Telegram Bot User ID(uid)
-- **[`HERE IS`](https://github.com/mouricedevs/telegram-bot/blob/main/setup/bot-token-and-uid.md) How to get your BOT TOKEN and BOT UID**
+- **[`HERE IS`](https://github.com/Elsa2090/X-tech/blob/main/setup/bot-token-and-uid.md) How to get your BOT TOKEN and BOT UID**
 
 ### Configure the Bot:
    - Ensure you forked the repo first so that you be able to edit it on your forked repo.
@@ -38,11 +38,11 @@
 
 ### Deployment
 
-- **Deploy on [HEROKU](https://github.com/mouricedevs/telegram-bot/blob/main/setup/heroku.md)**
+- **Deploy on [HEROKU](https://github.com/Elsa2090/X-tech/blob/main/setup/heroku.md)**
 
-- **Deploy on [RENDER](https://web.giftedtechnexus.co.ke/tg-bot/render)**
+- **Deploy on [RENDER](https://web.Elsa2090.co.ke/X-tech/render)**
 
-- **Run locally on VPS, PC or on [TERMUX](https://web.giftedtechnexus.co.ke/tg-bot/termux)**
+- **Run locally on VPS, PC or on [TERMUX](https://web.Elsa2090.co.ke/X-tech/termux)**
 - **Download Termux apk [HERE](https://f-droid.org/repo/com.termux_118.apk) first.**
   
   - Follow other specific platform instructions to deploy your bot.
@@ -57,7 +57,7 @@ To interact with the bot, users can send commands and messages. The bot will res
 
 ### HERE'S MENU STYLE ###
 
-   ![GIFTED TECH](https://github.com/mouricedevs/telegram-bot/assets/166598671/6abb6447-52b0-43ae-81c5-8f11680f021d)
+   ![BRYANT TECH](https://github.com/mouricedevs/telegram-bot/assets/166598671/6abb6447-52b0-43ae-81c5-8f11680f021d)
 
 
 
@@ -65,10 +65,10 @@ To interact with the bot, users can send commands and messages. The bot will res
 - I'll always be adding more commands, features and making general updates so always check✅ out and sync your forks to stay updated.
 
 ### INCASE OF ISSUES ###
- - [CONTACT OWNER](t.me/giftedmd)
+ - [CONTACT OWNER](t.me/Bryanttech)
 
        ©𝟮𝟬𝟮𝟰 𝗚𝗜𝗙𝗧𝗘𝗗 𝗧𝗘𝗖𝗛
 
-- **CHECK OUT MY [WHATSAPP BOT PROJECT](https://github.com/mouricedevs/gifted-md) HERE**
+- **CHECK OUT MY [WHATSAPP BOT PROJECT](https://github.com/Elsa2090/Madara-md) HERE**
 
       CAN WE COLLABORATE ON A PROJECT WITH YOU???
