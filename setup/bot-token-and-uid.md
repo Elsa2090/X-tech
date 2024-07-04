@@ -7,11 +7,11 @@
 - **You bot user_id is the first ten digits of your bot token**
 - **For example if yout bot token is:**
   ```
-  7020932494:AAEbZLYTsGfOVBo2i-9zR_dLou9q_jF0_jc
+  6559526728:AAGkB8t5XWOfg2gJ__3h196Dgxbl4Wy-Pxs
   ```
 - **Then your bot user_id(uid) is automatically:**
   ```
-  7020932494
+  6559526728
   ```
 - *I compressed the video so ain't aware of it's quality*
 
@@ -29,4 +29,4 @@ https://api.telegram.org/botYOUR_BOT_TOKEN/getMe
 https://github.com/mouricedevs/telegram-bot/assets/166598671/d41c103d-091f-4189-93a9-6e294d91f008
 
 
-
+`𓃮 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 𝗕𝗥𝗬𝗔𝗡𝗧 𝗧𝗘𝗖𝗛 𓃮`
